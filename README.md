@@ -17,7 +17,7 @@
 
   ##
 <div>
-  <img width='250px' height='250px' src='https://i.pinimg.com/originals/e1/5e/5c/e15e5c9258fb3f028285d5230715abf9.gif' alt='kaguya-gif'>
-  <img width='250px' height='250px' src='https://i.imgur.com/pBsaKKg.gif' alt='zenitsu-gif'>
-  <img width='250px' height='250px' src='https://i.imgur.com/ea3kbH2.gif' alt='tanya-gif'>
+  <img width='150px' height='150px' src='https://i.pinimg.com/originals/e1/5e/5c/e15e5c9258fb3f028285d5230715abf9.gif' alt='kaguya-gif'>
+  <img width='150px' height='150px' src='https://i.imgur.com/pBsaKKg.gif' alt='zenitsu-gif'>
+  <img width='150px' height='150px' src='https://i.imgur.com/e54T47U.gif' alt='tanya-gif'>
 </div>
