@@ -1,9 +1,12 @@
+<div>
+  <p>
+  <h2>Salve!</h2>
+    ● 🌱 Estudando: Javascript</br>
+    ● 🔭 Desenvolvendo: Discord Bot</br>
+  </p>
+</div>
 
-### Salve!
-* 🌱 Estudando: Javascript
-* 🔭 Desenvolvendo: Discord Bot
-
-  
+##
 <div>
   <a href="https://github.com/NakkiiBrks">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NakkiiBrks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -15,7 +18,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-  ##
+##
 <div>
   <img width='150px' height='150px' src='https://i.pinimg.com/originals/e1/5e/5c/e15e5c9258fb3f028285d5230715abf9.gif' alt='kaguya-gif'>
   <img width='150px' height='150px' src='https://i.imgur.com/pBsaKKg.gif' alt='zenitsu-gif'>
