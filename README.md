@@ -1,6 +1,5 @@
 <div>
   <p>
-  <h2>Uepa</h2>
     ● 🌱 Estudando: Javascript</br>
     ● 🔭 Desenvolvendo: Site</br>
   </p>
