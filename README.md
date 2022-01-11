@@ -1,7 +1,6 @@
 <div>
   <p>
     ● 🌱 Estudando: Javascript</br>
-    ● 🔭 Desenvolvendo: Site</br>
   </p>
 </div>
 
