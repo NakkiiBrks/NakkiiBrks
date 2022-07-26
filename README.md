@@ -16,6 +16,4 @@
 </div>
 
 ##
-<div>
-  <img src='https://i.imgur.com/hDOfuOx.gif' alt='hacker-gif'>
-</div>
+![Hacker](https://i.imgur.com/hDOfuOx.gif)
