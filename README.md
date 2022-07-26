@@ -16,4 +16,6 @@
 </div>
 
 ##
-![Hacker](https://i.imgur.com/hDOfuOx.gif)
+<div>
+  <img width="425" height="239.06" alt="Hacker" src="https://i.imgur.com/e54T47U.gif">
+</div>
