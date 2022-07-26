@@ -16,6 +16,6 @@
 </div>
 
 ##
-<!---<div>
-  <img width='150px' height='150px' src='https://i.imgur.com/hDOfuOx.gif' alt='hacker-gif'>
-</div>-->
+<div>
+  <img src='https://i.imgur.com/hDOfuOx.gif' alt='hacker-gif'>
+</div>
