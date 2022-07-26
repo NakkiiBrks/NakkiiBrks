@@ -1,6 +1,6 @@
 <div>
   <p>
-    ● 🌱 Estudando: Javascript</br>
+    ● 🌱 Estudando: Javascript, Docker, Pterodactyl Panel</br>
   </p>
 </div>
 
@@ -16,6 +16,4 @@
 </div>
 
 ##
-<div>
-  <img width="425" height="239.06" alt="Hacker" src="https://i.imgur.com/e54T47U.gif">
-</div>
+![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)
