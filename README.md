@@ -17,3 +17,11 @@
 
 ##
 ![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)
+
+[b][u]My Steam Profile[/u][/b] [i](from [URL=https://steamdb.info/calculator/76561198831974189/?cc=br]SteamDB[/URL])[/i]
+[list]
+[*][b]Value:[/b] R$ 297
+[*][b]Games owned:[/b] 137
+[*][b]Games played:[/b] 39 [i](28%)[/i]
+[*][b]Hours on record:[/b] 1,813.9h
+[/list]
