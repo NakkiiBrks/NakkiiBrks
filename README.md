@@ -1,9 +1,17 @@
+<h2 align="center">
+Learning programming
+</h2> 
+<center><img src="https://media1.tenor.com/m/koPZtmOYjkQAAAAC/nichijou-shinonome-nano.gif"></center>
+Learning sys/net admin / Fullstack stuff
+
 ## Programming Languages
 
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&label=Code&labelColor=grey&color=E34F26)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&color=E34F26)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&labelColor=grey&color=E34F26)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&label=Code&labelColor=grey&color=E34F26)
 ![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=Markdown&color=E34F26)
-![](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white&label=Code&labelColor=grey&color=E34F26)
+![](https://img.shields.io/badge/Bash-informational?style=flat&logo=gnubash&logoColor=white&label=Code&labelColor=grey&color=E34F26)
 
 
 ## Tools
