@@ -1,10 +1,8 @@
 <img src="https://media1.tenor.com/m/koPZtmOYjkQAAAAC/nichijou-shinonome-nano.gif">
 
-<h2 align="center">
-Learning programming
-</h2> 
+## Learning programming
 
-Learning sys/net admin / Fullstack stuff
+Learning sys/net admin & Fullstack stuff
 
 ## Programming Languages
 
