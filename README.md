@@ -2,7 +2,7 @@
 
 ## Learning programming
 
-Learning sys/net admin & Fullstack stuff
+Learning Sys/Net Admin & Fullstack stuff
 
 ## Programming Languages
 
