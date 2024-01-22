@@ -1,16 +1,18 @@
-<div>
-  <p>
-    ● 🌱 Estudando: Javascript, Docker, Pterodactyl Panel</br>
-  </p>
-</div>
+## Programming Languages
 
-##
-<div>
-  <a href="https://github.com/NakkiiBrks">
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&color=E34F26)
+![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=Markdown&color=E34F26)
+
+## Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=replit,stackoverflow,gcp,azure,dotnet,figma,bootstrap,cloudflare,discord,docker,git,github,linux,mysql,nginx,vscode"/>
+  </a>
+</p>
+
+## Virtualization
+
+![](https://img.shields.io/badge/Virtu-VirtualBox-informational?style=flat&logo=VirtualBox&color=181717)
+![](https://img.shields.io/badge/Virtu-VMWare-informational?style=flat&logo=VMWare&color=181717)
