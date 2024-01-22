@@ -1,7 +1,9 @@
+<img src="https://media1.tenor.com/m/koPZtmOYjkQAAAAC/nichijou-shinonome-nano.gif">
+
 <h2 align="center">
 Learning programming
 </h2> 
-<center><img src="https://media1.tenor.com/m/koPZtmOYjkQAAAAC/nichijou-shinonome-nano.gif"></center>
+
 Learning sys/net admin / Fullstack stuff
 
 ## Programming Languages
