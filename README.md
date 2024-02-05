@@ -1,5 +1,3 @@
-<img src="https://media1.tenor.com/m/koPZtmOYjkQAAAAC/nichijou-shinonome-nano.gif">
-
 ## Learning programming
 
 Learning SysNet Admin & Fullstack stuff
