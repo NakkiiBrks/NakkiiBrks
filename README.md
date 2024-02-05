@@ -1,4 +1,4 @@
-## Learning programming
+## Learning
 
 Learning SysNet Admin & Fullstack stuff
 
